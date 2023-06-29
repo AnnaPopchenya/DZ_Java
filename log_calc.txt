@@ -1,0 +1,8 @@
+θών. 29, 2023 10:38:11 PM task_5 main
+INFO: 5.0
+θών. 29, 2023 10:38:16 PM task_5 main
+INFO: +
+θών. 29, 2023 10:38:18 PM task_5 main
+INFO: 7.0
+θών. 29, 2023 10:38:18 PM task_5 main
+INFO: 5.0 + 7.0 = 12

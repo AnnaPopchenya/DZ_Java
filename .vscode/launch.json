@@ -1,0 +1,35 @@
+task{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "task_1",
+            "request": "launch",
+            "mainClass": "task_1",
+            "projectName": "DZ_Java_99d74a1e"
+        },
+        {
+            "type": "java",
+            "name": "task_2",
+            "request": "launch",
+            "mainClass": "task_2",
+            "projectName": "DZ_Java_99d74a1e"
+        },
+        {
+            "type": "java",
+            "name": "task_3",
+            "request": "launch",
+            "mainClass": "task_3",
+            "projectName": "DZ_Java_99d74a1e"
+        }
+    ]
+}
